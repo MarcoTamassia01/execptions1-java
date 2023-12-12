@@ -4,5 +4,5 @@
 /**
  * 
  */
-module course {
+module exerc1 {
 }
